@@ -267,7 +267,7 @@ AI & Machine Learning Enthusiast
 
 🚀 **Try the application here:**
 
-**🔗 Live Website:** https://your-streamlit-app.streamlit.app
+**🔗 Live Website:** https://smartclass.streamlit.app/
 
 📂 **GitHub Repository:** https://github.com/yourusername/SmartClass
 
