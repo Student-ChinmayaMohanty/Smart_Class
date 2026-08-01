@@ -260,3 +260,15 @@ AI & Machine Learning Enthusiast
 <p align="center">
 ⭐ Star this Repository • 🍴 Fork it • 🚀 Build Something Amazing
 </p>
+
+
+
+## 🌐 Live Demo
+
+🚀 **Try the application here:**
+
+**🔗 Live Website:** https://your-streamlit-app.streamlit.app
+
+📂 **GitHub Repository:** https://github.com/yourusername/SmartClass
+
+🎥 **Demo Video:** https://youtu.be/your-video-link
